@@ -99,6 +99,10 @@ Feel free to fork the repository and contribute to the project. Any improvements
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Author
+
+Sameer Nagar
+
 ## Acknowledgements
 
 - [AWS Documentation](https://aws.amazon.com/documentation/) for providing the powerful services used in this project.
